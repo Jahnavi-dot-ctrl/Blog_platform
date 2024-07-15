@@ -16,7 +16,7 @@ function Footer() {
                         src="https://projects.iq.harvard.edu/sites/projects.iq.harvard.edu/files/styles/os_files_xxlarge/public/francisclooney/files/blog-icon.png?m=1524474753&itok=VJL2n97K" alt="logo"
                     />
                     {/* logo text  */}
-                    <span className="ml-3 text-xl text-white">
+                    <span className="ml-3 text-xl text-white">  
                         Medium
                     </span>
                 </div>
